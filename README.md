@@ -1,7 +1,7 @@
 #### Полное описание проекта находится в файле request.pdf
 
 ### Запуск файлов производится в следующем порядке:    
-- rashod2/ctd/todepth_2011.for
+- ctd/todepth_2011.for
 - rashod2/profil2011.for
 - rashod2/sdvig.for
 - rashod2/rashod/rast1.for
